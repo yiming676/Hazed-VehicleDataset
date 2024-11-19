@@ -1,6 +1,6 @@
 #Hazed-Vehicle-Datasets
 
-In this project, I have uploaded a foggy vehicle dataset. The original dataset is a niche collection from India, known as VehicleDatasets. I have applied an exponential hazification model to this original dataset to introduce fog effects. Additionally, the package includes YOLO format annotations corresponding to each image, encompassing a total of 21 vehicle categories.
+In this project, I have uploaded a foggy vehicle dataset. The original dataset is a niche collection from India, known as VehicleDatasets(If you are interested in obtaining this dataset, you can find it in my other projects). I have applied an exponential hazification model to this original dataset to introduce fog effects. Additionally, the package includes YOLO format annotations corresponding to each image, encompassing a total of 21 vehicle categories.
 
 List of all categories is provided.
 
